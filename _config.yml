@@ -1,0 +1,4 @@
+title: Clara Udofa
+description: Developer @ github/claracruz
+theme: jekyll-theme-tactile
+gem "github-pages", group: :jekyll_plugins
