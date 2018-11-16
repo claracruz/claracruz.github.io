@@ -19,5 +19,5 @@ layout: default
 <dt>.tests()</dt>
 <dd> Jasmine, DOH, Intern, CucumberJS, Mocha, Chai, Sinon</dd>
 <dt>.developed()</dt>
-<dd>[FusionJS](https://www.npmjs.com/package/fusionjs)</dd>
+<dd>FusionJS @ https://www.npmjs.com/package/fusionjs</dd>
 </dl>
