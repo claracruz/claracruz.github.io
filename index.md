@@ -18,4 +18,6 @@ layout: default
 <dd> ES6, React/Redux, GraphQl, Dojo, ExtJS, JQuery, Stylus, LESS, SASS</dd>
 <dt>.tests()</dt>
 <dd> Jasmine, DOH, Intern, CucumberJS, Mocha, Chai, Sinon</dd>
+<dt>.developed()</dt>
+<dd>[FusionJS](https://www.npmjs.com/package/fusionjs)</dd>
 </dl>
