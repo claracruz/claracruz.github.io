@@ -15,7 +15,7 @@ layout: default
 <dt>.lang()</dt>
 <dd>Javascript (Typescript/NodeJS), HTML5/CSS3, C#</dd>
 <dt>.has()</dt>
-<dd> ES6, React/Redux, GraphQl, Dojo, ExtJS, JQuery, Stylus, LESS, SASS</dd>
+<dd> ES6, React/Redux, GraphQL, Dojo, ExtJS, JQuery, Stylus, LESS, SASS</dd>
 <dt>.tests()</dt>
 <dd> Jasmine, DOH, Intern, CucumberJS, Mocha, Chai, Sinon</dd>
 <dt>.developed()</dt>
